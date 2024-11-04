@@ -1,0 +1,9 @@
+nat:
+  client:
+    server_address: 47.92.83.231
+    server_port: 8280
+    password: zfzn2019
+    proxy_addresses: 127.0.0.1:8080
+    remote_ports: 30002
+server:
+  port: 8082
